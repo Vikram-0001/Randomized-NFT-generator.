@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1de56e91-412a-4fae-b4c4-7cfc4b8f27de" /># Randomized NFT Generator Smart Contract
+# Randomized NFT Generator Smart Contract
 
 ## Description
 
