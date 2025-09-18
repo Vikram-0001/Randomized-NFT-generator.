@@ -1,0 +1,16 @@
+[package]
+name = "Bootcamp"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x6523be36ff55fe6cd8f83759bc9926136adcbbeb7eda27b08a011c71673bac2a"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
